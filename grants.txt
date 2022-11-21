@@ -11,6 +11,7 @@ HRs to upload/delete new jobs, company profiles, applicant profiles, and job
 applications.
 - Smart contract to manage certificate.
 - Backend to manage the IPFS network.
+
 Milestone 2: Learn to Earn Feature (Expected Delivery Date: 10-12 weeks after finishing the 1st milestone)
 - Frontend development for course management: A dashboard that shows all the courses, filters, and shortlisted courses.
 - Backend to manage courses: Add/drop/ courses,...
