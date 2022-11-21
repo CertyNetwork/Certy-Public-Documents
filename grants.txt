@@ -1,4 +1,17 @@
-Learn to Earn Feature (Expected Delivery Date: 10-12 weeks after finishing the 1st milestone)
+Milestone 1: 
+- UI/UX Design (Expected Delivery Date: 2 weeks since started)
+- Landing Page Design
+- UI/UX Design for Career Builder
+- UI/UX Design for Learn to Earn
+Career Builder Feature (4 weeks after finishing the UI/UX design)
+- Frontend and backend development for certificates management: A dashboard that
+shows users' certificate, a system to connect users with HR and vice versa
+- Front end and backend development for jobs management: A dashboard that allows
+HRs to upload/delete new jobs, company profiles, applicant profiles, and job
+applications.
+- Smart contract to manage certificate.
+- Backend to manage the IPFS network.
+Milestone 2: Learn to Earn Feature (Expected Delivery Date: 10-12 weeks after finishing the 1st milestone)
 - Frontend development for course management: A dashboard that shows all the courses, filters, and shortlisted courses.
 - Backend to manage courses: Add/drop/ courses,...
 - Online learning system: Upload new courses, customize course contents (videos, text, quizzes, assignments, exams, etc), grading system, user management system, certificates management system, analytics & reports, etc.
