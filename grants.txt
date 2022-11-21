@@ -1,0 +1,8 @@
+Learn to Earn Feature (Expected Delivery Date: 10-12 weeks after finishing the 1st milestone)
+- Frontend development for course management: A dashboard that shows all the courses, filters, and shortlisted courses.
+- Backend to manage courses: Add/drop/ courses,...
+- Online learning system: Upload new courses, customize course contents (videos, text, quizzes, assignments, exams, etc), grading system, user management system, certificates management system, analytics & reports, etc.
+- Offer support to incoming grantees that would like to use their platform
+- Partner with a local university/school or other and with NEAR Hispano
+- 3,000 weekly CeSocial users
+- 10,000 NFTs minted
